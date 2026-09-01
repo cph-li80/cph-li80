@@ -1,4 +1,22 @@
-## Hi there 👋
+## # Hi there! 👋
+
+I'm a **Multimedia Designer** passionate about combining creativity, design, and technology.
+
+🎨 I enjoy creating visually engaging designs and digital experiences.
+💻 I'm exploring web development and learning how to bring my designs to life through code.
+🚀 I'm always experimenting, learning new skills, and working on creative projects.
+
+### What I'm interested in
+
+* 🎨 Digital & Multimedia Design
+* 🖥️ Web Design & Development
+* ✨ UI/UX & Interactive Experiences
+* 💡 Creative Technology
+
+I'm currently learning, building, and improving one project at a time.
+
+Thanks for stopping by! 😊
+
 
 
 <h3>When I code, I rely on</h3>
