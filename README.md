@@ -2,9 +2,9 @@
 
 I'm a **Multimedia Designer** passionate about combining creativity, design, and technology.
 
-🎨 I enjoy creating visually engaging designs and digital experiences.
-💻 I'm exploring web development and learning how to bring my designs to life through code.
-🚀 I'm always experimenting, learning new skills, and working on creative projects.
+ I enjoy creating visually engaging designs and digital experiences.
+ I'm exploring web development and learning how to bring my designs to life through code.
+ I'm always experimenting, learning new skills, and working on creative projects.
 
 <h3>The tech behind my work</h3>
 <p>
