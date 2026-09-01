@@ -19,7 +19,7 @@ I'm a **Multimedia Designer** passionate about combining creativity, design, and
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
- <img alt="W" src="<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WORDPRESS' src='https://img.shields.io/badge/WORDPRESS-100000?style=for-the-badge&logo=WORDPRESS&logoColor=white&labelColor=2262C1&color=2262C1'/></a>
+ 
 </p>
 
 ### What I'm interested in
