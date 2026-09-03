@@ -1,4 +1,4 @@
-## # Hi there! 👋
+## Hi, Welcome to my Github Profile! 👋
 
 I'm a **Multimedia Designer** passionate about combining creativity, design, and technology.
 
