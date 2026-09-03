@@ -9,7 +9,7 @@ I'm a **Multimedia Designer** passionate about combining creativity, design, and
 <h3>The tech behind my work</h3>
 <p>
   <img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=F42600&color=F42600'/></a>
-  <img alt='css' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css&logoColor=white&labelColor=733FCD&color=733FCD'/></a>
+  <img alt='css' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css&logoColor=white&labelColor=5A23DD&color=5A23DD'/></a>
   <img alt='Javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFBB00&color=FFBB00'/>
   <img alt='javascript' src='https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=733FCD&color=733FCD'/></a>
   <img alt='illustrator' src='https://img.shields.io/badge/illustrator-100000?style=for-the-badge&logo=illustrator&logoColor=white&labelColor=203CAD&color=203CAD'/></a>
